@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1046512747961",
+    "firebase_url": "https://v-track-gu999-default-rtdb.firebaseio.com",
+    "project_id": "v-track-gu999",
+    "storage_bucket": "v-track-gu999.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046512747961:android:01626bbf028e8554296268",
+        "android_client_info": {
+          "package_name": "com.example.newapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuqb7n2qgW_hoSlvBq-jODDEb5PlxvTxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
